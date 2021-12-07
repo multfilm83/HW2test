@@ -1,0 +1,9 @@
+Structure CheckLists
+
+1. Version Build (версия сборки)
+2. Environment (окружение)
+3. Test Date (дата проведения теста)
+4. Tester (тестировщик)
+5. Type Test (тип теста)
+6. Name Check (наименование проверки)
+7. Result (результат проверки)
