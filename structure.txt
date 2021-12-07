@@ -1,0 +1,24 @@
+Structure Bug Reports
+
+MAIN
+1. ID
+2. Summary
+3. Steps to Reproduce
+4. Result
+5. Expected Result
+6. Severity
+7. Attachments
+
+ALL
+1. Project
+2. Component
+3. Version
+4. Priority
+5. Status
+6. Environment
+7. Reporter
+8. Assigne
+9. Sprint
+10. Epic Link
+11. Linked Issues and Issue
+12. Fix versions
